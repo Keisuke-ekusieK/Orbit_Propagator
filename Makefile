@@ -29,7 +29,7 @@ econv   = off  # Perturbing force derived from the convection electric field.
 #**************************************************************************
 #   select the environmental model for the simulation
 #**************************************************************************
-charge  = 1      # 0:  Assuming Charge as a Constance
+charge  = 0      # 0:  Assuming Charge as a Constance
 	         # 1:  Considering charge variation during orbital motion.
 	         #     Charge amount is calculated from the charge database.
 		 # 2:  Considering charge variation during orbital motion.
