@@ -7,8 +7,7 @@
 運動方程式を解くコアには予測子・修正子法の一種であるAdams-Bashforth-Moulton法を採用。
 
 ### **【使用方法】**
-シミュレータの使用方法は下記動画参照。
-https://github.com/Keisuke-ekusieK/Orbit_Propagator/issues/1#issue-768777996
+シミュレータの使用方法は[こちら](https://github.com/Keisuke-ekusieK/Orbit_Propagator/issues/1#issue-768777996)の動画参照。
 1. Makefileで採用する地球環境モデル・計算の精度・出力するパラメータと形式を指定する。
 2. makeコマンドにてコンパイルを行い、作成される実行ファイルを実行する。
 
